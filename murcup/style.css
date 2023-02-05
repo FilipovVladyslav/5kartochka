@@ -1,0 +1,27 @@
+body {
+    background-color: #eee;
+}
+
+.card {
+    background-color: #fff;
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.card-title {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500px;
+
+}
+
+.card-sub {
+    font-size: 12px; 
+    font-weight: 300px;
+    margin-top: 20px;
+}
+
+.card-img {
+    width: 200px;
+}
